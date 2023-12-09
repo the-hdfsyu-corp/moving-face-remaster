@@ -1,0 +1,1 @@
+..\..\emu\fceux64.exe build\main.nes
